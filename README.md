@@ -13,7 +13,7 @@ Ich bin ein erfahrener Fullstack-Entwickler, DevOps-Ingenieur und AWS-Lösungsar
 - **Frameworks**: React, Node.js
 
 ## 💼 Projekt-Highlights
-- [GitHub Self-Hosted Runner](GitHub-Runner) - Implementierung eines selbstgehosteten Runners für CI/CD mit GitHub Actions.
+- [GitHub Self-Hosted Runner](flow-84/GitHub-Runner) - Implementierung eines selbstgehosteten Runners für CI/CD mit GitHub Actions.
 - [Jenkins Pipeline-Projekt](github.com/flow-84/Jenkins-Pipeline) - Aufbau einer vollständigen CI/CD-Pipeline mit Jenkins.
 - [Terraform Cloud Infrastruktur](github.com/flow-84/Terraform-AWS) - Management von AWS-Infrastruktur mit Terraform.
 
