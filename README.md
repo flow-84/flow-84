@@ -18,9 +18,9 @@ Ich bin ein erfahrener Fullstack-Entwickler, DevOps-Ingenieur und AWS-Lösungsar
 - [Terraform Cloud Infrastruktur](https://github.com/flow-84/terraform-sns-lambda-ddb) - Management von AWS-Infrastruktur mit Terraform.
 
 ## 📞 Kontakt
-- LinkedIn: [Mittra Stumpner](linkedin.com/in/mittra-stumpner)
+- LinkedIn: [Mittra Stumpner](https://linkedin.com/in/mittra-stumpner)
 - E-Mail: [raja.mywebsite123@gmail.com](mailto:raja.mywebsite123@gmail.com)
-- Persönliche Website: [mittra-stumpner.netlify.com](mittra-stumpner.netlify.com)
+- Persönliche Website: [mittra-stumpner.netlify.com](https://mittra-stumpner.netlify.com)
 
 ## 📚 Weiterbildung & Zertifizierungen
 - AWS Certified Solutions Architect
