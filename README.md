@@ -13,9 +13,9 @@ Ich bin ein erfahrener Fullstack-Entwickler, DevOps-Ingenieur und AWS-Lösungsar
 - **Frameworks**: React, Node.js
 
 ## 💼 Projekt-Highlights
-- [GitHub Self-Hosted Runner](flow-84/self-hosted-runner) - Implementierung eines selbstgehosteten Runners für CI/CD mit GitHub Actions.
-- [Jenkins Pipeline-Projekt](flow-84/Pipeline) - Aufbau einer vollständigen CI/CD-Pipeline mit Jenkins.
-- [Terraform Cloud Infrastruktur](flow-84/terraform-sns-lambda-ddb) - Management von AWS-Infrastruktur mit Terraform.
+- [GitHub Self-Hosted Runner](self-hosted-runner) - Implementierung eines selbstgehosteten Runners für CI/CD mit GitHub Actions.
+- [Jenkins Pipeline-Projekt](Pipeline) - Aufbau einer vollständigen CI/CD-Pipeline mit Jenkins.
+- [Terraform Cloud Infrastruktur](terraform-sns-lambda-ddb) - Management von AWS-Infrastruktur mit Terraform.
 
 ## 📞 Kontakt
 - LinkedIn: [Mittra Stumpner](linkedin.com/in/mittra-stumpner)
