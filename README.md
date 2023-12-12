@@ -1,10 +1,10 @@
-# Hallo, ich bin Mittra Stumpner! 👾
+# Hi, I'm Mittra! 👾
 
 Ich bin ein erfahrener Fullstack-Entwickler, DevOps-Ingenieur und AWS-Lösungsarchitekt mit einer Leidenschaft für die Gestaltung und Implementierung effizienter, skalierbarer Systeme. Willkommen auf meinem GitHub-Profil, wo ich meine Arbeit und mein Wissen teile.
 
 ## 🌌 Technologien & Fähigkeiten
 - **Cloud-Plattformen**: 🌐 AWS, GCP, Azure
-- **CI/CD**: ⚙️ Jenkins, GitHub Actions
+- **CI/CD**: ⚙️ GitLabs, Jenkins, GitHub Actions
 - **Containerisierung & Orchestrierung**: 🐳 Docker, 🌊 Kubernetes
 - **IaC**: 🏗️ Terraform, Ansible
 - **Monitoring & Alerting**: 🔭 Prometheus, Grafana, CloudWatch
