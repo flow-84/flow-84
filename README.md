@@ -20,7 +20,7 @@ Ich bin ein erfahrener Fullstack-Entwickler, DevOps-Ingenieur und AWS-Lösungsar
 ## 📡 Kontakt
 - LinkedIn: [Mittra Stumpner](https://linkedin.com/in/mittra-stumpner)
 - E-Mail: [mittra@multiversemedia.de](mailto:mittra@multiversemedia.de)
-- Persönliche Website: [multiversemedia.org](https://multiversemedia.org)
+- Persönliche Website: [multiversemedia.org](https://multiversemedia.org target="_blank")
 
 ## 📚 Weiterbildung & Zertifizierungen
 - AWS Certified Solutions Architect
