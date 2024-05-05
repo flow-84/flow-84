@@ -19,8 +19,8 @@ Ich bin ein erfahrener Fullstack-Entwickler, DevOps-Ingenieur und AWS-Lösungsar
 
 ## 📡 Kontakt
 - LinkedIn: [Mittra Stumpner](https://linkedin.com/in/mittra-stumpner)
-- E-Mail: [raja.mywebsite123@gmail.com](mailto:raja.mywebsite123@gmail.com)
-- Persönliche Website: [mittra-stumpner.netlify.com](https://mittra-stumpner.netlify.com)
+- E-Mail: [mittra@multiversemedia.de](mailto:mittra@multiversemedia.de)
+- Persönliche Website: [multiversemedia.org](https://multiversemedia.org)
 
 ## 📚 Weiterbildung & Zertifizierungen
 - AWS Certified Solutions Architect
