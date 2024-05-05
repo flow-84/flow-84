@@ -24,6 +24,9 @@ Ich bin ein erfahrener Fullstack-Entwickler, DevOps-Ingenieur und AWS-Lösungsar
 
 ## 📚 Weiterbildung & Zertifizierungen
 - AWS Certified Solutions Architect
+- Linux Essentials
+- Blockchain HPI Certificate
+- AI LLM Enineering HPI Certificate
 - Teilnahme an Workshops und Kursen sowie autodidaktische technische Weiterbildung
 
 ## 🌠 Über mich
