@@ -24,7 +24,7 @@ Ich bin ein erfahrener Fullstack-Entwickler, DevOps-Ingenieur und AWS-Lösungsar
 
 ## 📚 Weiterbildung & Zertifizierungen
 - AWS Certified Solutions Architect
-- Fortlaufende Teilnahme an Workshops und Kursen zur technischen Weiterbildung
+- Teilnahme an Workshops und Kursen sowie autodidaktische technische Weiterbildung
 
 ## 🌠 Über mich
 In meiner Karriere habe ich eine Vielzahl von Projekten geleitet und erfolgreich umgesetzt, von Microservices über komplexe CI/CD-Pipelines bis hin zu Cloud-Lösungen. Ich schätze ständiges Lernen und Anpassungsfähigkeit in der sich schnell entwickelnden Welt der Technologie. In meiner Freizeit schreibe ich gerne Blog-Beiträge über neue Technologietrends und teile mein Wissen in Communitys.
