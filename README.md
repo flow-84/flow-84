@@ -34,6 +34,6 @@ In meiner Karriere habe ich eine Vielzahl von Projekten geleitet und erfolgreich
 
 Danke, dass Sie vorbeischauen und sich die Zeit nehmen, mein Portfolio zu erkunden!
 
-## 📊 GitHub Metrics
+## 📊 GitHub-Metriken
 
-![Metrics](./metrics.svg)
+![GitHub-Metriken](./metrics.svg)
