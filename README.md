@@ -33,3 +33,7 @@ Ich bin ein erfahrener Fullstack-Entwickler, DevOps-Ingenieur und AWS-Lösungsar
 In meiner Karriere habe ich eine Vielzahl von Projekten geleitet und erfolgreich umgesetzt, von Microservices über komplexe CI/CD-Pipelines bis hin zu Cloud-Lösungen. Ich schätze ständiges Lernen und Anpassungsfähigkeit in der sich schnell entwickelnden Welt der Technologie. In meiner Freizeit schreibe ich gerne Blog-Beiträge über neue Technologietrends und teile mein Wissen in Communitys.
 
 Danke, dass Sie vorbeischauen und sich die Zeit nehmen, mein Portfolio zu erkunden!
+
+## 📊 GitHub Metrics
+
+![Metrics](./metrics.svg)
