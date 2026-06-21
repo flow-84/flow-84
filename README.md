@@ -7,9 +7,10 @@
   </picture>
 </p>
 
-<!-- ░░░ TITEL ░░░ -->
-<h1 align="center">🌌 MULTIVERSEMEDIA</h1>
-<p align="center"><b>fl0w</b> &nbsp;·&nbsp; DevOps &amp; Cloud Architecture</p>
+<!-- ░░░ TITEL — animierter Neon-Hero ░░░ -->
+<p align="center">
+  <img src="./assets/hero.svg" width="880" height="220" alt="MULTIVERSEMEDIA — fl0w · DevOps & Cloud Architecture"/>
+</p>
 
 <p align="center">
   <a href="https://github.com/flow-84">
@@ -21,7 +22,9 @@
   <img src="https://komarev.com/ghpvc/?username=flow-84&style=flat-square&color=ff00e5&label=PROFIL-AUFRUFE" alt="Profilaufrufe"/>
 </p>
 
----
+<p align="center">
+  <img src="./assets/divider.svg" width="880" height="16" alt=""/>
+</p>
 
 ## 🧬 Über mich
 
@@ -33,7 +36,9 @@ Unter dem Label **Multiversemedia** baue ich darüber hinaus **KI-Plattformen, a
 und Automatisierungen** — von der Cloud-Infrastruktur bis zur Agenten-Logik. Mein Fokus: komplexe,
 manuelle Prozesse in reproduzierbare, produktionsreife Produkte zu überführen. Ständiges Lernen ist mein Default-Branch.
 
----
+<p align="center">
+  <img src="./assets/divider.svg" width="880" height="16" alt=""/>
+</p>
 
 ## 🛠️ Tech-Stack
 
@@ -117,7 +122,9 @@ manuelle Prozesse in reproduzierbare, produktionsreife Produkte zu überführen.
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
 ![Smart Contracts](https://img.shields.io/badge/Smart%20Contracts-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
 
----
+<p align="center">
+  <img src="./assets/divider.svg" width="880" height="16" alt=""/>
+</p>
 
 ## ⚡ Aktivität
 
@@ -133,7 +140,9 @@ manuelle Prozesse in reproduzierbare, produktionsreife Produkte zu überführen.
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=flow-84&area=true&hide_border=true&bg_color=0a0118&color=00f0ff&line=ff00e5&point=00f0ff&title_color=ff00e5&custom_title=Beitr%C3%A4ge%20der%20letzten%2031%20Tage" alt="Aktivitätsverlauf" width="760"/>
 </p>
 
----
+<p align="center">
+  <img src="./assets/divider.svg" width="880" height="16" alt=""/>
+</p>
 
 ## 🔥 Stats & Streak
 
@@ -148,7 +157,9 @@ manuelle Prozesse in reproduzierbare, produktionsreife Produkte zu überführen.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=flow-84&layout=compact&langs_count=8&hide_border=true&title_color=ff00e5&text_color=00f0ff&bg_color=0a0118&icon_color=b400ff" alt="Meistgenutzte Sprachen" width="480"/>
 </p>
 
----
+<p align="center">
+  <img src="./assets/divider.svg" width="880" height="16" alt=""/>
+</p>
 
 ## 🧪 Woran ich arbeite — hinter der Fassade
 
@@ -186,7 +197,9 @@ seriös und sicherheitsbewusst umgesetzt.
 Das Fundament unter allem: **AWS-IaC**, CI/CD, Kubernetes und Observability — damit Produkte
 zuverlässig, reproduzierbar und skalierbar laufen.
 
----
+<p align="center">
+  <img src="./assets/divider.svg" width="880" height="16" alt=""/>
+</p>
 
 ## 📂 Open Source & Public Repos
 
@@ -199,7 +212,9 @@ zuverlässig, reproduzierbar und skalierbar laufen.
 | 🤖 [Jenkins](https://github.com/flow-84/Jenkins) | Vollständige CI/CD-Pipeline mit Jenkins | `Docker` `Jenkins` |
 | 📊 [Prometheus](https://github.com/flow-84/Prometheus) · [Grafana](https://github.com/flow-84/Grafana) | Monitoring- & Alerting-Setup für Cloud-Workloads | `Prometheus` `Grafana` |
 
----
+<p align="center">
+  <img src="./assets/divider.svg" width="880" height="16" alt=""/>
+</p>
 
 ## 📜 Zertifizierungen & Weiterbildung
 
@@ -209,15 +224,19 @@ zuverlässig, reproduzierbar und skalierbar laufen.
 - 🧠 **AI / LLM Engineering** — HPI Certificate
 - 📚 Laufende autodidaktische Weiterbildung, Workshops & Communities
 
----
+<p align="center">
+  <img src="./assets/divider.svg" width="880" height="16" alt=""/>
+</p>
 
 ## 🏆 Trophäen
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=flow-84&theme=algolia&no-bg=true&no-frame=true&column=7&margin-w=8&margin-h=8" alt="Trophäen" width="880"/>
+  <img src="./assets/trophies.svg" alt="Trophäen" width="880"/>
 </p>
 
----
+<p align="center">
+  <img src="./assets/divider.svg" width="880" height="16" alt=""/>
+</p>
 
 ## 📡 Kontakt
 
