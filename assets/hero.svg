@@ -13,8 +13,8 @@
       <stop offset="0.5" stop-color="#b400ff" stop-opacity="0.9"/>
       <stop offset="1" stop-color="#00f0ff" stop-opacity="0"/>
     </linearGradient>
-    <filter id="soft" x="-30%" y="-60%" width="160%" height="260%">
-      <feGaussianBlur stdDeviation="6"/>
+    <filter id="soft" x="-12%" y="-25%" width="124%" height="150%">
+      <feGaussianBlur stdDeviation="4"/>
     </filter>
     <filter id="panelGlow" x="-10%" y="-30%" width="120%" height="160%">
       <feGaussianBlur stdDeviation="3"/>
@@ -27,13 +27,11 @@
   <rect x="6" y="10" width="868" height="200" rx="20" fill="none"
         stroke="#00f0ff" stroke-opacity="0.25" stroke-width="3" filter="url(#panelGlow)"/>
 
-  <!-- Wortmarke: weicher pulsierender Glow dahinter -->
+  <!-- Wortmarke: weicher Glow dahinter (statisch, vermeidet Repaint-Glitch beim Scrollen) -->
   <text x="440" y="108" text-anchor="middle"
         font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif"
         font-size="58" font-weight="800" letter-spacing="4"
-        fill="url(#neon)" filter="url(#soft)" opacity="0.35">MULTIVERSEMEDIA
-    <animate attributeName="opacity" values="0.35;0.85;0.35" dur="3.8s" repeatCount="indefinite"/>
-  </text>
+        fill="url(#neon)" filter="url(#soft)" opacity="0.45">MULTIVERSEMEDIA</text>
 
   <!-- Wortmarke: scharfe Ebene -->
   <text x="440" y="108" text-anchor="middle"
@@ -44,7 +42,7 @@
   <!-- Untertitel -->
   <text x="440" y="150" text-anchor="middle"
         font-family="'Courier New', monospace" font-size="18" letter-spacing="3"
-        fill="#00f0ff" fill-opacity="0.92">fl0w &#160;·&#160; DevOps &amp; Cloud Architecture</text>
+        fill="#00f0ff" fill-opacity="0.92">fl0w &#160;·&#160; KI-Automation · Multi-Agent · Bots</text>
 
   <!-- Neon-Unterlinie mit wanderndem Lichtpunkt -->
   <rect x="240" y="172" width="400" height="2.5" rx="1.25" fill="url(#line)"/>
