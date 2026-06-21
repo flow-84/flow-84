@@ -228,10 +228,10 @@ zuverlässig, reproduzierbar und skalierbar laufen.
   <img src="./assets/divider.svg" width="880" height="16" alt=""/>
 </p>
 
-## 🏆 Trophäen
+## 🏆 Highlights
 
 <p align="center">
-  <img src="./assets/trophies.svg" alt="Trophäen" width="880"/>
+  <img src="./assets/highlights.svg" alt="Highlights" width="880"/>
 </p>
 
 <p align="center">
