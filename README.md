@@ -3,7 +3,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/snake-dark.svg"/>
     <source media="(prefers-color-scheme: light)" srcset="./assets/snake.svg"/>
-    <img alt="Beitrags-Snake-Animation" src="./assets/snake.svg" width="100%"/>
+    <img alt="Beitrags-Snake-Animation" src="./assets/snake.svg" width="880" height="192"/>
   </picture>
 </p>
 
@@ -124,13 +124,13 @@ manuelle Prozesse in reproduzierbare, produktionsreife Produkte zu überführen.
 ### 🧊 Contribution-Jahr in 3D
 
 <p align="center">
-  <img src="./assets/isocalendar.svg" alt="3D Isometrischer Kontributionskalender" width="100%"/>
+  <img src="./assets/isocalendar.svg" alt="3D Isometrischer Kontributionskalender" width="720" height="453"/>
 </p>
 
 ### 📈 Aktivitäts-Verlauf
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=flow-84&area=true&hide_border=true&bg_color=0a0118&color=00f0ff&line=ff00e5&point=00f0ff&title_color=ff00e5&custom_title=Beitr%C3%A4ge%20der%20letzten%2031%20Tage" alt="Aktivitätsverlauf" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=flow-84&area=true&hide_border=true&bg_color=0a0118&color=00f0ff&line=ff00e5&point=00f0ff&title_color=ff00e5&custom_title=Beitr%C3%A4ge%20der%20letzten%2031%20Tage" alt="Aktivitätsverlauf" width="760"/>
 </p>
 
 ---
@@ -145,7 +145,7 @@ manuelle Prozesse in reproduzierbare, produktionsreife Produkte zu überführen.
 ### 🧮 Sprachen & Code
 
 <p align="center">
-  <img src="./assets/languages.svg" alt="Sprachen & Code-Statistik" width="100%"/>
+  <img src="./assets/languages.svg" alt="Sprachen & Code-Statistik" width="480"/>
 </p>
 
 ---
@@ -208,6 +208,14 @@ zuverlässig, reproduzierbar und skalierbar laufen.
 - ⛓️ **Blockchain** — HPI Certificate
 - 🧠 **AI / LLM Engineering** — HPI Certificate
 - 📚 Laufende autodidaktische Weiterbildung, Workshops & Communities
+
+---
+
+## 🏆 Trophäen
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=flow-84&theme=algolia&no-bg=true&no-frame=true&column=7&margin-w=8&margin-h=8" alt="Trophäen" width="880"/>
+</p>
 
 ---
 
