@@ -28,12 +28,12 @@
 
 ## 🧬 Über mich
 
-Hi, ich bin **fl0w** 👾 — Fullstack-Entwickler, DevOps-Ingenieur und **AWS Certified Solutions Architect** aus Athen.
+Hi, ich bin **fl0w** 👾 - Fullstack-Entwickler, DevOps-Ingenieur und **AWS Certified Solutions Architect** aus Athen.
 Ich entwerfe und betreibe effiziente, skalierbare Cloud-Systeme: von Infrastructure-as-Code über CI/CD-Pipelines
 bis zu containerisierten Microservices.
 
 Unter dem Label **Multiversemedia** baue ich darüber hinaus **KI-Plattformen, autonome Multi-Agent-Systeme
-und Automatisierungen** — von der Cloud-Infrastruktur bis zur Agenten-Logik. Mein Fokus: komplexe,
+und Automatisierungen** - von der Cloud-Infrastruktur bis zur Agenten-Logik. Mein Fokus: komplexe,
 manuelle Prozesse in reproduzierbare, produktionsreife Produkte zu überführen. Ständiges Lernen ist mein Default-Branch.
 
 <p align="center">
