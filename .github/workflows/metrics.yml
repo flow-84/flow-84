@@ -47,9 +47,6 @@ jobs:
           plugin_languages_analysis_timeout: 15
           plugin_languages_categories: markup, programming
           plugin_languages_colors: github
-          plugin_lines: yes
-          plugin_stars: yes
-          plugin_stars_limit: 4
           extras_css: |
             svg, .background, foreignObject > *, body { background: #0a0118 !important; }
             * { color: #00f0ff !important; }
