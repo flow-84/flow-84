@@ -1,0 +1,25 @@
+name: Snake Animation
+on:
+  schedule: [{cron: "0 */12 * * *"}]
+  workflow_dispatch:
+  push: {branches: ["main", "master"]}
+jobs:
+  generate-snake:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Generate snake (neon, light & dark)
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            assets/snake.svg?color_snake=00f0ff&color_dots=0a0118,3a0a4a,7a1d8c,b400ff,ff00e5
+            assets/snake-dark.svg?palette=github-dark&color_snake=ff00e5&color_dots=05010d,3a0a4a,7a1d8c,b400ff,00f0ff
+
+      - name: Commit & push to assets
+        uses: actions-js/push@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: main
+          message: "chore: update snake animation [skip ci]"
