@@ -145,7 +145,7 @@ manuelle Prozesse in reproduzierbare, produktionsreife Produkte zu überführen.
 ### 🧮 Sprachen & Code
 
 <p align="center">
-  <img src="./assets/languages.svg" alt="Sprachen & Code-Statistik" width="480"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=flow-84&layout=compact&langs_count=8&hide_border=true&title_color=ff00e5&text_color=00f0ff&bg_color=0a0118&icon_color=b400ff" alt="Meistgenutzte Sprachen" width="480"/>
 </p>
 
 ---
