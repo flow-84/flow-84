@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 200" width="880" height="200" role="img" aria-label="Trophäen werden generiert">
+  <defs>
+    <linearGradient id="tneon" x1="0" y1="0" x2="1" y2="0" spreadMethod="reflect">
+      <stop offset="0" stop-color="#00f0ff"/>
+      <stop offset="0.5" stop-color="#b400ff"/>
+      <stop offset="1" stop-color="#ff00e5"/>
+      <animateTransform attributeName="gradientTransform" type="translate"
+        values="0 0; 1 0; 0 0" dur="9s" repeatCount="indefinite"/>
+    </linearGradient>
+    <filter id="tglow" x="-20%" y="-50%" width="140%" height="200%">
+      <feGaussianBlur stdDeviation="3"/>
+    </filter>
+  </defs>
+  <rect x="6" y="10" width="868" height="180" rx="18"
+        fill="#0a0118" stroke="#b400ff" stroke-opacity="0.4" stroke-width="1.5"/>
+  <text x="440" y="96" text-anchor="middle"
+        font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif"
+        font-size="40" font-weight="800" letter-spacing="2"
+        fill="url(#tneon)" filter="url(#tglow)" opacity="0.5">🏆 Trophäen
+    <animate attributeName="opacity" values="0.4;0.85;0.4" dur="2.6s" repeatCount="indefinite"/>
+  </text>
+  <text x="440" y="96" text-anchor="middle"
+        font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif"
+        font-size="40" font-weight="800" letter-spacing="2"
+        fill="url(#tneon)">🏆 Trophäen</text>
+  <text x="440" y="134" text-anchor="middle"
+        font-family="'Courier New', monospace" font-size="15" letter-spacing="2"
+        fill="#00f0ff" fill-opacity="0.8">werden beim nächsten Workflow-Lauf generiert …</text>
+</svg>

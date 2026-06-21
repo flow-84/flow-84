@@ -31,7 +31,7 @@
   <text x="440" y="108" text-anchor="middle"
         font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif"
         font-size="58" font-weight="800" letter-spacing="4"
-        fill="url(#neon)" filter="url(#soft)">MULTIVERSEMEDIA
+        fill="url(#neon)" filter="url(#soft)" opacity="0.35">MULTIVERSEMEDIA
     <animate attributeName="opacity" values="0.35;0.85;0.35" dur="3.8s" repeatCount="indefinite"/>
   </text>
 
@@ -48,7 +48,7 @@
 
   <!-- Neon-Unterlinie mit wanderndem Lichtpunkt -->
   <rect x="240" y="172" width="400" height="2.5" rx="1.25" fill="url(#line)"/>
-  <circle cx="240" cy="173" r="4" fill="#ffffff" filter="url(#panelGlow)">
+  <circle cx="250" cy="173" r="4" fill="#00f0ff" filter="url(#panelGlow)">
     <animate attributeName="cx" values="250;630;250" dur="6s" repeatCount="indefinite"/>
     <animate attributeName="fill" values="#00f0ff;#ff00e5;#00f0ff" dur="6s" repeatCount="indefinite"/>
   </circle>
