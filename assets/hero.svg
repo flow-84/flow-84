@@ -13,7 +13,7 @@
       <stop offset="0.5" stop-color="#b400ff" stop-opacity="0.9"/>
       <stop offset="1" stop-color="#00f0ff" stop-opacity="0"/>
     </linearGradient>
-    <filter id="soft" x="-12%" y="-25%" width="124%" height="150%">
+    <filter id="soft" x="-12%" y="-35%" width="124%" height="170%">
       <feGaussianBlur stdDeviation="4"/>
     </filter>
     <filter id="panelGlow" x="-10%" y="-30%" width="120%" height="160%">
@@ -42,7 +42,7 @@
   <!-- Untertitel -->
   <text x="440" y="150" text-anchor="middle"
         font-family="'Courier New', monospace" font-size="18" letter-spacing="3"
-        fill="#00f0ff" fill-opacity="0.92">fl0w &#160;·&#160; KI-Automation · Multi-Agent · Bots</text>
+        fill="#00f0ff" fill-opacity="0.92">fl0w &#160;·&#160; KI-Automation &#160;·&#160; Multi-Agent &#160;·&#160; Bots</text>
 
   <!-- Neon-Unterlinie mit wanderndem Lichtpunkt -->
   <rect x="240" y="172" width="400" height="2.5" rx="1.25" fill="url(#line)"/>
