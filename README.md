@@ -150,14 +150,6 @@ manuelle Prozesse in reproduzierbare, produktionsreife Produkte zu überführen.
 
 ---
 
-## 🏆 Auszeichnungen
-
-<p align="center">
-  <img src="./assets/achievements.svg" alt="GitHub-Auszeichnungen" width="100%"/>
-</p>
-
----
-
 ## 🧪 Woran ich arbeite — hinter der Fassade
 
 > 🔒 Der Großteil entsteht in **privaten Repos & unter NDA**. Hier die *funktionale* Sicht auf die Produkte —
