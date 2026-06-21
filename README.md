@@ -165,7 +165,7 @@ manuelle Prozesse in reproduzierbare, produktionsreife Produkte zu überführen.
 > 🔒 Der Großteil entsteht in **privaten Repos & unter NDA**. Hier die *funktionale* Sicht auf die Produkte —
 > ohne Kunden-, Marken- oder Plattformdaten, mit Fokus auf Technik, Architektur und Innovation.
 
-### 🚀 `M2S` — KI-Plattform für Creator- & Content-Management
+### 🚀 KI-Plattform für Creator- & Content-Management
 Eine vollständig automatisierte Plattform, die **Multi-Agent-KI**, **CRM** und **Content-Pipelines** verbindet:
 LLM-orchestriertes Messaging, automatisierte Workflows, Analytics-Dashboards und **Deep-Research-Pipelines**.
 End-to-end von der Infrastruktur bis zur Agenten-Logik konzipiert und betrieben — skalierbar und produktionsreif.
