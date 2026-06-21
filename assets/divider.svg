@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 16" width="880" height="16" role="presentation" aria-hidden="true">
+  <defs>
+    <linearGradient id="dline" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#ff00e5" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#b400ff" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#00f0ff" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="dglow" x="-50%" y="-300%" width="200%" height="700%">
+      <feGaussianBlur stdDeviation="2.2"/>
+    </filter>
+  </defs>
+  <!-- Grundlinie -->
+  <rect x="80" y="7.25" width="720" height="1.5" rx="0.75" fill="url(#dline)"/>
+  <!-- wanderndes Lichtsegment -->
+  <rect x="0" y="6.5" width="90" height="3" rx="1.5" fill="#00f0ff" filter="url(#dglow)" opacity="0.9">
+    <animate attributeName="x" values="120;670;120" dur="7s" repeatCount="indefinite"/>
+    <animate attributeName="fill" values="#00f0ff;#ff00e5;#00f0ff" dur="7s" repeatCount="indefinite"/>
+  </rect>
+</svg>
