@@ -231,7 +231,7 @@ zuverlässig, reproduzierbar und skalierbar laufen.
 ## 🏆 Highlights
 
 <p align="center">
-  <img src="./assets/highlights.svg" alt="Highlights" width="880"/>
+  <img src="./assets/highlights.svg" alt="Highlights" width="880" height="200"/>
 </p>
 
 <p align="center">

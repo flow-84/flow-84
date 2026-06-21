@@ -14,7 +14,7 @@
 
   <!-- Panel -->
   <rect x="6" y="8" width="868" height="184" rx="18"
-        fill="#0a0118" stroke="#b400ff" stroke-opacity="0.35" stroke-width="1.5"/>
+        fill="#0a0118" stroke="url(#hlNeon)" stroke-opacity="0.55" stroke-width="1.8"/>
 
   <!-- Tile-Vorlage: Glow-Rahmen (gestaffelt pulsierend) + scharfer Rahmen + Label -->
   <!-- Reihe 1 -->
