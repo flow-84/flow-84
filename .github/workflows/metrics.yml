@@ -36,7 +36,7 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: assets/languages.svg
-          base: ""
+          base: repositories
           template: classic
           config_timezone: Europe/Berlin
           config_animations: yes
