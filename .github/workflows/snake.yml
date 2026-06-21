@@ -9,6 +9,9 @@ jobs:
     permissions:
       contents: write
     steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
       - name: Generate snake (neon, light & dark)
         uses: Platane/snk@v3
         with:
