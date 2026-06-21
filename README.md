@@ -3,7 +3,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/snake-dark.svg"/>
     <source media="(prefers-color-scheme: light)" srcset="./assets/snake.svg"/>
-    <img alt="Contribution Snake Animation" src="./assets/snake.svg" width="100%"/>
+    <img alt="Beitrags-Snake-Animation" src="./assets/snake.svg" width="100%"/>
   </picture>
 </p>
 
@@ -150,10 +150,10 @@ manuelle Prozesse in reproduzierbare, produktionsreife Produkte zu überführen.
 
 ---
 
-## 🏆 Achievements
+## 🏆 Auszeichnungen
 
 <p align="center">
-  <img src="./assets/achievements.svg" alt="GitHub Achievements" width="100%"/>
+  <img src="./assets/achievements.svg" alt="GitHub-Auszeichnungen" width="100%"/>
 </p>
 
 ---
