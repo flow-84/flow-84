@@ -240,3 +240,8 @@ zuverlässig, reproduzierbar und skalierbar laufen.
 </p>
 
 <p align="center"><sub>🌌 <b>Multiversemedia</b> · gebaut mit KI, Automation &amp; Neon · <code>fl0w</code></sub></p>
+
+<p align="center">
+  <img src="./assets/anantha.png" width="64" alt="Anantha" />
+</p>
+<p align="center"><sub><i>Für <b>Anantha</b> — meine unendliche Inspiration 💜</i></sub></p>
