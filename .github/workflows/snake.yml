@@ -17,8 +17,8 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            assets/snake.svg?color_snake=00f0ff&color_dots=0a0118,3a0a4a,7a1d8c,b400ff,ff00e5
-            assets/snake-dark.svg?palette=github-dark&color_snake=ff00e5&color_dots=05010d,3a0a4a,7a1d8c,b400ff,00f0ff
+            assets/snake.svg?color_snake=ff00e5&color_dots=ebe6f5,b400ff,d400e5,ff00e5,00f0ff
+            assets/snake-dark.svg?palette=github-dark&color_snake=00f0ff&color_dots=2a1a3a,7a1d8c,b400ff,ff00e5,00f0ff
 
       - name: Commit & push to assets
         uses: actions-js/push@master

@@ -1,7 +1,15 @@
-<!-- ░░░ HEADER ░░░ -->
+<!-- ░░░ SNAKE — Hero, ganz oben über allem ░░░ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00e5,50:b400ff,100:00f0ff&height=220&section=header&text=MULTIVERSEMEDIA&fontSize=58&fontColor=ffffff&animation=fadeIn&stroke=00f0ff&strokeWidth=1&fontAlignY=38&desc=fl0w%20%C2%B7%20DevOps%20%26%20Cloud%20Architecture&descSize=18&descAlignY=60&descColor=00f0ff" alt="Multiversemedia" width="100%"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="./assets/snake.svg"/>
+    <img alt="Contribution Snake Animation" src="./assets/snake.svg" width="100%"/>
+  </picture>
 </p>
+
+<!-- ░░░ TITEL ░░░ -->
+<h1 align="center">🌌 MULTIVERSEMEDIA</h1>
+<p align="center"><b>fl0w</b> &nbsp;·&nbsp; DevOps &amp; Cloud Architecture</p>
 
 <p align="center">
   <a href="https://github.com/flow-84">
@@ -113,16 +121,6 @@ manuelle Prozesse in reproduzierbare, produktionsreife Produkte zu überführen.
 
 ## ⚡ Aktivität
 
-> Die Schlange frisst meinen Contribution-Graph — live aus meinen öffentlichen **und** privaten Beiträgen.
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="./assets/snake.svg"/>
-    <img alt="Snake animation" src="./assets/snake.svg" width="100%"/>
-  </picture>
-</p>
-
 ### 🧊 Contribution-Jahr in 3D
 
 <p align="center">
@@ -152,10 +150,10 @@ manuelle Prozesse in reproduzierbare, produktionsreife Produkte zu überführen.
 
 ---
 
-## 🏆 Trophäen
+## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=flow-84&theme=dracula&no-bg=true&no-frame=true&column=7&margin-w=6&margin-h=6" alt="Trophäen" width="100%"/>
+  <img src="./assets/achievements.svg" alt="GitHub Achievements" width="100%"/>
 </p>
 
 ---
@@ -229,6 +227,4 @@ zuverlässig, reproduzierbar und skalierbar laufen.
   <a href="https://multiversemedia.de"><img src="https://img.shields.io/badge/Website-b400ff?style=flat-square&logo=google-chrome&logoColor=white" alt="Website"/></a>
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f0ff,50:b400ff,100:ff00e5&height=120&section=footer" alt="" width="100%"/>
-</p>
+<p align="center"><sub>🌌 <b>Multiversemedia</b> · gebaut mit Cloud, KI &amp; Neon · <code>fl0w</code></sub></p>
