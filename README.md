@@ -22,8 +22,8 @@ Ich entwerfe und betreibe effiziente, skalierbare Cloud-Systeme: von Infrastruct
 bis zu containerisierten Microservices.
 
 Unter dem Label **Multiversemedia** baue ich darüber hinaus **KI-Plattformen, autonome Multi-Agent-Systeme
-und Automatisierungen** — von der Cloud-Infrastruktur bis zur Agenten-Logik. Mein Fokus: aus komplexen,
-manuellen Prozessen reproduzierbare, produktionsreife Produkte machen. Ständiges Lernen ist mein Default-Branch.
+und Automatisierungen** — von der Cloud-Infrastruktur bis zur Agenten-Logik. Mein Fokus: komplexe,
+manuelle Prozesse in reproduzierbare, produktionsreife Produkte zu überführen. Ständiges Lernen ist mein Default-Branch.
 
 ---
 
@@ -76,7 +76,7 @@ manuellen Prozessen reproduzierbare, produktionsreife Produkte machen. Ständige
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square)
 
 **🕸️ Backend, Frameworks & Frontend**
 
