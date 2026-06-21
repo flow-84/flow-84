@@ -1,6 +1,6 @@
 <!-- ░░░ HEADER ░░░ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00e5,50:b400ff,100:00f0ff&height=220&section=header&text=MULTIVERSEMEDIA&fontSize=58&fontColor=ffffff&animation=fadeIn&stroke=00f0ff&strokeWidth=1&fontAlignY=38&desc=fl0w%20·%20DevOps%20%26%20Cloud%20Architecture&descSize=18&descAlignY=60&descColor=00f0ff" alt="Multiversemedia" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00e5,50:b400ff,100:00f0ff&height=220&section=header&text=MULTIVERSEMEDIA&fontSize=58&fontColor=ffffff&animation=fadeIn&stroke=00f0ff&strokeWidth=1&fontAlignY=38&desc=fl0w%20%C2%B7%20DevOps%20%26%20Cloud%20Architecture&descSize=18&descAlignY=60&descColor=00f0ff" alt="Multiversemedia" width="100%"/>
 </p>
 
 <p align="center">
@@ -141,7 +141,7 @@ und Automatisierungen. Ständiges Lernen ist mein Default-Branch.
 
 <p align="center">
   <a href="https://linkedin.com/in/mittra-stumpner"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:mittra@multiversemedia.de"><img src="https://img.shields.io/badge/E--Mail-ff00e5?style=flat-square&logo=maildotru&logoColor=white" alt="E-Mail"/></a>
+  <a href="mailto:mittra@multiversemedia.de"><img src="https://img.shields.io/badge/E--Mail-ff00e5?style=flat-square&logo=gmail&logoColor=white" alt="E-Mail"/></a>
   <a href="https://multiversemedia.de"><img src="https://img.shields.io/badge/Website-b400ff?style=flat-square&logo=google-chrome&logoColor=white" alt="Website"/></a>
 </p>
 
