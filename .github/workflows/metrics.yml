@@ -11,7 +11,7 @@ jobs:
     steps:
       # 3D isometric contribution calendar (full year, private-aware)
       - name: Isocalendar
-        uses: lowlighter/metrics@latest
+        uses: lowlighter/metrics@v3.34
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: assets/isocalendar.svg
@@ -32,7 +32,7 @@ jobs:
 
       # Sprachverteilung (committed, privat-aware) — Ersatz fuer flaky github-readme-stats
       - name: Languages
-        uses: lowlighter/metrics@latest
+        uses: lowlighter/metrics@v3.34
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: assets/languages.svg
@@ -55,7 +55,7 @@ jobs:
 
       # Stats-Zusammenfassung (committed) — Ersatz fuer die GitHub-Stats-Karte
       - name: Stats
-        uses: lowlighter/metrics@latest
+        uses: lowlighter/metrics@v3.34
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: assets/stats.svg
