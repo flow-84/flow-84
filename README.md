@@ -143,8 +143,11 @@ von der Agenten-Logik über die Integrationen bis zum Deployment. Als Fundament 
 ## 🔥 Stats & Streak
 
 <p align="center">
-  <img src="./assets/stats.svg" alt="GitHub Stats" width="440"/>
-  <img src="https://streak-stats.demolab.com/?user=flow-84&hide_border=true&background=0a0118&stroke=b400ff&ring=ff00e5&fire=ff00e5&currStreakLabel=00f0ff&currStreakNum=ffffff&sideNums=00f0ff&dates=00f0ff&sideLabels=b400ff&dayLabels=b400ff" alt="GitHub Streak" height="170"/>
+  <img src="./assets/stats.svg" alt="GitHub Stats" width="480"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=flow-84&hide_border=true&background=0a0118&stroke=b400ff&ring=ff00e5&fire=ff00e5&currStreakLabel=00f0ff&currStreakNum=ffffff&sideNums=00f0ff&dates=00f0ff&sideLabels=b400ff&dayLabels=b400ff" alt="GitHub Streak" width="480"/>
 </p>
 
 ### 🧮 Sprachen & Code
