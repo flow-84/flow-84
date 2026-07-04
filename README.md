@@ -143,14 +143,17 @@ von der Agenten-Logik über die Integrationen bis zum Deployment. Als Fundament 
 ## 🔥 Stats & Streak
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=flow-84&show_icons=true&count_private=true&hide_border=true&title_color=ff00e5&icon_color=b400ff&text_color=00f0ff&bg_color=0a0118" alt="GitHub Stats" height="170"/>
-  <img src="https://streak-stats.demolab.com/?user=flow-84&hide_border=true&background=0a0118&stroke=b400ff&ring=ff00e5&fire=ff00e5&currStreakLabel=00f0ff&currStreakNum=ffffff&sideNums=00f0ff&dates=00f0ff&sideLabels=b400ff&dayLabels=b400ff" alt="GitHub Streak" height="170"/>
+  <img src="./assets/stats.svg" alt="GitHub Stats" width="480"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=flow-84&hide_border=true&background=0a0118&stroke=b400ff&ring=ff00e5&fire=ff00e5&currStreakLabel=00f0ff&currStreakNum=ffffff&sideNums=00f0ff&dates=00f0ff&sideLabels=b400ff&dayLabels=b400ff" alt="GitHub Streak" width="480"/>
 </p>
 
 ### 🧮 Sprachen & Code
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=flow-84&layout=compact&langs_count=8&hide_border=true&title_color=ff00e5&text_color=00f0ff&bg_color=0a0118&icon_color=b400ff" alt="Meistgenutzte Sprachen" width="480"/>
+  <img src="./assets/languages.svg" alt="Meistgenutzte Sprachen" width="480"/>
 </p>
 
 <p align="center">
