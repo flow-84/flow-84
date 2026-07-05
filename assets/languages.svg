@@ -3,20 +3,20 @@
 <text x="16" y="28" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="16" font-weight="700" fill="#ff00e5">Meistgenutzte Sprachen</text>
 <clipPath id="clip"><rect x="16" y="42" width="448" height="14" rx="7"/></clipPath>
 <g clip-path="url(#clip)">
-<rect x="16.00" y="42" width="365.89" height="14" fill="#3178c6"/>
-<rect x="381.29" y="42" width="31.75" height="14" fill="#f1e05a"/>
-<rect x="412.44" y="42" width="21.72" height="14" fill="#e34c26"/>
-<rect x="433.56" y="42" width="12.47" height="14" fill="#3572A5"/>
-<rect x="445.43" y="42" width="5.73" height="14" fill="#00b3bd"/>
+<rect x="16.00" y="42" width="365.97" height="14" fill="#3178c6"/>
+<rect x="381.37" y="42" width="31.71" height="14" fill="#f1e05a"/>
+<rect x="412.48" y="42" width="21.70" height="14" fill="#e34c26"/>
+<rect x="433.58" y="42" width="12.45" height="14" fill="#3572A5"/>
+<rect x="445.44" y="42" width="5.73" height="14" fill="#00b3bd"/>
 <rect x="450.56" y="42" width="4.49" height="14" fill="#563d7c"/>
 <rect x="454.45" y="42" width="3.83" height="14" fill="#89e051"/>
 <rect x="457.68" y="42" width="2.72" height="14" fill="#336790"/>
-<rect x="459.80" y="42" width="4.80" height="14" fill="#6b7280"/>
+<rect x="459.81" y="42" width="4.79" height="14" fill="#6b7280"/>
 </g>
 <circle cx="22.0" cy="74.0" r="5" fill="#3178c6"/>
-<text x="34.0" y="78.0" font-family="Segoe UI,Arial,sans-serif" font-size="13" fill="#00f0ff"><tspan font-weight="600">TypeScript</tspan> <tspan fill="#b9a7d6">81.5%</tspan></text>
+<text x="34.0" y="78.0" font-family="Segoe UI,Arial,sans-serif" font-size="13" fill="#00f0ff"><tspan font-weight="600">TypeScript</tspan> <tspan fill="#b9a7d6">81.6%</tspan></text>
 <circle cx="246.0" cy="74.0" r="5" fill="#f1e05a"/>
-<text x="258.0" y="78.0" font-family="Segoe UI,Arial,sans-serif" font-size="13" fill="#00f0ff"><tspan font-weight="600">JavaScript</tspan> <tspan fill="#b9a7d6">7.0%</tspan></text>
+<text x="258.0" y="78.0" font-family="Segoe UI,Arial,sans-serif" font-size="13" fill="#00f0ff"><tspan font-weight="600">JavaScript</tspan> <tspan fill="#b9a7d6">6.9%</tspan></text>
 <circle cx="22.0" cy="98.0" r="5" fill="#e34c26"/>
 <text x="34.0" y="102.0" font-family="Segoe UI,Arial,sans-serif" font-size="13" fill="#00f0ff"><tspan font-weight="600">HTML</tspan> <tspan fill="#b9a7d6">4.7%</tspan></text>
 <circle cx="246.0" cy="98.0" r="5" fill="#3572A5"/>
