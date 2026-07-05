@@ -41,6 +41,14 @@ jobs:
           GH_TOKEN: ${{ secrets.METRICS_TOKEN }}
         run: python3 .github/scripts/languages_svg.py
 
+      # Profilaufrufe: selbst-gehosteter Zaehler aus der GitHub-Traffic-API,
+      # in .github/data/profile-views.json akkumuliert und als Neon-SVG gerendert.
+      # Ersetzt den zeitweise ausfallenden Fremddienst komarev.com/ghpvc.
+      - name: Profilaufrufe
+        env:
+          GH_TOKEN: ${{ secrets.METRICS_TOKEN }}
+        run: python3 .github/scripts/profile_views_svg.py
+
       # Stats-Zusammenfassung (committed) — Ersatz fuer die GitHub-Stats-Karte
       - name: Stats
         uses: lowlighter/metrics@v3.34

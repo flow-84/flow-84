@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=flow-84&style=flat-square&color=ff00e5&label=PROFIL-AUFRUFE" alt="Profilaufrufe"/>
+  <img src="./assets/profile-views.svg" alt="Profilaufrufe" height="34"/>
 </p>
 
 <p align="center">
