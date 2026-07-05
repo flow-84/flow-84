@@ -14,7 +14,7 @@ if [ "${CLAUDE_CODE_REMOTE:-}" != "true" ]; then
   exit 0
 fi
 
-git config user.name "fl0w"
-git config user.email "122696700+flow-84@users.noreply.github.com"
+git config --local user.name "fl0w"
+git config --local user.email "122696700+flow-84@users.noreply.github.com"
 
 echo "Commit-Identitaet gesetzt: fl0w <122696700+flow-84@users.noreply.github.com>"
