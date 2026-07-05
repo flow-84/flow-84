@@ -93,7 +93,7 @@ def text_width(s, default=9.4):
     return sum(GLYPH_W.get(c, default) for c in s)
 
 
-def build_svg(total_views, count_14d=0, uniques_14d=0):
+def build_svg(total_views):
     """Kompaktes Flat-Square-Badge (Stil komarev): dunkles Label links, Magenta-
     Zahl rechts, automatische Breite -> Zahl sitzt buendig, kein leerer Raum.
     Text je Segment zentriert, damit unterschiedliche Betrachter-Fonts nicht
@@ -152,7 +152,7 @@ def main():
              (json.dumps(new_state, indent=2, sort_keys=True) + "\n").encode(),
              "Update profile-views state [skip ci]", sha=state_sha)
 
-    svg = build_svg(total_views, count_14d, uniques_14d)
+    svg = build_svg(total_views)
     _, svg_sha = get_json_file(repo, SVG_PATH, token)  # nur sha holen (kein JSON noetig)
     put_file(repo, SVG_PATH, token, svg.encode(),
              "Update assets/profile-views.svg [skip ci]", sha=svg_sha)
