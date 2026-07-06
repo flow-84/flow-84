@@ -80,31 +80,56 @@ def fmt(n):
     return "{:,}".format(int(n)).replace(",", ".")
 
 
-def build_svg(total_views, count_14d, uniques_14d):
-    W, H = 320, 34
-    big = fmt(total_views)
-    sub = "14 T: %s · %s eindeutig" % (fmt(count_14d), fmt(uniques_14d))
+# Per Browser-Canvas gemessene Glyphenbreiten fuer '700 11px DejaVu Sans Bold'
+# (breitester gaengiger Linux-Fallback -> auf schmaleren Fonts wie Verdana bleibt
+# nur etwas mehr Rand, nie ein Ueberlauf). Unbekannte Zeichen: grosszuegiger Default.
+GLYPH_W = {"0": 7.65, "1": 7.65, "2": 7.65, "3": 7.65, "4": 7.65, "5": 7.65,
+           "6": 7.65, "7": 7.65, "8": 7.65, "9": 7.65, ".": 4.18, "-": 4.57,
+           " ": 3.83, "P": 8.06, "R": 8.47, "O": 9.35, "F": 7.51, "I": 4.09,
+           "L": 7.01, "A": 8.51, "U": 8.93, "E": 7.51}
+
+
+def text_width(s, default=9.4):
+    return sum(GLYPH_W.get(c, default) for c in s)
+
+
+def build_svg(total_views):
+    """Kompaktes Flat-Square-Badge (Stil komarev): dunkles Label links, Magenta-
+    Zahl rechts, automatische Breite -> Zahl sitzt buendig, kein leerer Raum.
+    Text je Segment zentriert, damit unterschiedliche Betrachter-Fonts nicht
+    ins Nachbarsegment ueberlaufen."""
+    label = "PROFIL-AUFRUFE"
+    value = fmt(total_views)
+    H, FS, PAD = 20, 11, 11
+    lw = round(text_width(label) + 2 * PAD)
+    rw = round(text_width(value) + 2 * PAD)
+    W = lw + rw
+    ty = 14  # Baseline vertikal zentriert
+    lcx, rcx = lw / 2.0, lw + rw / 2.0  # Segment-Mittelpunkte
     p = []
     p.append('<svg xmlns="http://www.w3.org/2000/svg" width="%d" height="%d" '
              'viewBox="0 0 %d %d" role="img" aria-label="Profilaufrufe: %s">'
-             % (W, H, W, H, big))
-    p.append('<rect x="0.5" y="0.5" width="%d" height="%d" rx="8" fill="%s" '
-             'stroke="%s" stroke-opacity="0.55"/>' % (W - 1, H - 1, BG, BORDER))
-    # Auge-Icon
-    p.append('<g transform="translate(14,17)" fill="none" stroke="%s" stroke-width="1.6">' % MAGENTA)
-    p.append('<path d="M-7 0 C-4 -5 4 -5 7 0 C4 5 -4 5 -7 0 Z"/>')
-    p.append('<circle cx="0" cy="0" r="2" fill="%s" stroke="none"/>' % MAGENTA)
+             % (W, H, W, H, value))
+    p.append('<title>Profilaufrufe: %s</title>' % value)
+    # Abgerundete Segmente (Hintergruende via Clip). Eindeutige Clip-ID, damit
+    # mehrere Badges im selben Dokument sich nicht gegenseitig ueberklippen.
+    cid = "rnd%d" % W
+    p.append('<clipPath id="%s"><rect width="%d" height="%d" rx="4"/></clipPath>' % (cid, W, H))
+    p.append('<g clip-path="url(#%s)">' % cid)
+    p.append('<rect width="%d" height="%d" fill="%s"/>' % (lw, H, BG))
+    p.append('<rect x="%d" width="%d" height="%d" fill="%s"/>' % (lw, rw, H, MAGENTA))
     p.append('</g>')
-    # Label
-    p.append('<text x="30" y="21" font-family="Segoe UI,Helvetica,Arial,sans-serif" '
-             'font-size="11" font-weight="700" letter-spacing="0.5" fill="%s">PROFIL-AUFRUFE</text>'
-             % MAGENTA)
-    # Grosse Zahl (rechtsbuendig)
-    p.append('<text x="%d" y="15" text-anchor="end" font-family="Segoe UI,Helvetica,Arial,sans-serif" '
-             'font-size="15" font-weight="700" fill="%s">%s</text>' % (W - 12, CYAN, big))
-    # Sub-Zeile (rechtsbuendig)
-    p.append('<text x="%d" y="27" text-anchor="end" font-family="Segoe UI,Arial,sans-serif" '
-             'font-size="8.5" fill="%s">%s</text>' % (W - 12, DIM, sub))
+    # Feiner Neon-Rahmen
+    p.append('<rect x="0.5" y="0.5" width="%d" height="%d" rx="4" fill="none" '
+             'stroke="%s" stroke-opacity="0.5"/>' % (W - 1, H - 1, BORDER))
+    # Texte (zentriert) mit leichtem Schatten fuer Lesbarkeit
+    p.append('<g font-family="Verdana,DejaVu Sans,Segoe UI,sans-serif" '
+             'font-size="%d" font-weight="700" text-anchor="middle">' % FS)
+    p.append('<text x="%.1f" y="%d" fill="#000" fill-opacity="0.3">%s</text>' % (lcx, ty + 1, label))
+    p.append('<text x="%.1f" y="%d" fill="%s">%s</text>' % (lcx, ty, CYAN, label))
+    p.append('<text x="%.1f" y="%d" fill="#000" fill-opacity="0.3">%s</text>' % (rcx, ty + 1, value))
+    p.append('<text x="%.1f" y="%d" fill="#ffffff">%s</text>' % (rcx, ty, value))
+    p.append('</g>')
     p.append('</svg>')
     return "\n".join(p)
 
@@ -127,7 +152,7 @@ def main():
              (json.dumps(new_state, indent=2, sort_keys=True) + "\n").encode(),
              "Update profile-views state [skip ci]", sha=state_sha)
 
-    svg = build_svg(total_views, count_14d, uniques_14d)
+    svg = build_svg(total_views)
     _, svg_sha = get_json_file(repo, SVG_PATH, token)  # nur sha holen (kein JSON noetig)
     put_file(repo, SVG_PATH, token, svg.encode(),
              "Update assets/profile-views.svg [skip ci]", sha=svg_sha)
