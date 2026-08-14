@@ -9,7 +9,7 @@
 
 <!-- ░░░ TITEL — animierter Neon-Hero ░░░ -->
 <p align="center">
-  <img src="./assets/hero.svg" width="880" height="220" alt="MULTIVERSEMEDIA — fl0w · KI-Automation · Multi-Agent · Bots"/>
+  <img src="./assets/hero.svg" width="880" height="220" alt="MULTIVERSEMEDIA - fl0w · KI-Automation · Multi-Agent · Bots"/>
 </p>
 
 <p align="center">
@@ -32,7 +32,7 @@ Hi, ich bin **fl0w** 👾 - Builder für **KI-Automation, autonome Multi-Agent-S
 Ich baue Systeme, die komplexe, manuelle Prozesse autonom erledigen: **LLM-orchestrierte Agenten**,
 **Telegram-Bots**, **CRM- & Content-Automation** und **Workflow-Integrationen** über Slack, Trello, ClickUp und n8n.
 
-Unter dem Label **Multiversemedia** überführe ich manuelle Abläufe in reproduzierbare, produktionsreife Produkte —
+Unter dem Label **Multiversemedia** überführe ich manuelle Abläufe in reproduzierbare, produktionsreife Produkte -
 von der Agenten-Logik über die Integrationen bis zum Deployment. Als Fundament darunter liegt solides
 **Cloud- & Platform-Engineering** (AWS, IaC, CI/CD). Ständiges Lernen ist mein Default-Branch.
 
@@ -160,20 +160,20 @@ von der Agenten-Logik über die Integrationen bis zum Deployment. Als Fundament 
   <img src="./assets/divider.svg" width="880" height="16" alt=""/>
 </p>
 
-## 🧪 Woran ich arbeite — hinter der Fassade
+## 🧪 Woran ich arbeite - hinter der Fassade
 
-> 🔒 Der Großteil entsteht in **privaten Repos & unter NDA**. Hier die *funktionale* Sicht auf die Produkte —
+> 🔒 Der Großteil entsteht in **privaten Repos & unter NDA**. Hier die *funktionale* Sicht auf die Produkte -
 > ohne Kunden-, Marken- oder Plattformdaten, mit Fokus auf Technik, Architektur und Innovation.
 
 ### 🤖 Multi-Agent Content-Automation & CRM
 Mein Hauptfokus: eine vollautomatisierte Plattform, in der **Multi-Agent-KI**, **CRM** und **Content-Pipelines**
 ineinandergreifen. LLM-orchestrierte Agenten übernehmen Messaging, Lead-Qualifizierung, Content-Generierung und
-Analytics — end-to-end konzipiert und betrieben, skalierbar und produktionsreif.
+Analytics - end-to-end konzipiert und betrieben, skalierbar und produktionsreif.
 
 `Multi-Agent` · `LLM-Orchestrierung` · `CRM-Automation` · `Python` · `FastAPI` · `Next.js` · `PostgreSQL`
 
 ### 📨 Telegram-Bots & Lead-Automation
-Bots auf Basis der **Telegram Bot API**, die Konversationen, Routing und Follow-ups autonom abwickeln —
+Bots auf Basis der **Telegram Bot API**, die Konversationen, Routing und Follow-ups autonom abwickeln -
 gekoppelt an CRM und Agenten-Logik, damit aus Nachrichten qualifizierte Leads werden.
 
 ### 🔗 Workflow-Integrationen
@@ -181,19 +181,19 @@ Verbinde, was sonst per Hand läuft: **Slack · Trello · ClickUp · n8n · Make
 synchronisierte Boards, sodass Teams und Bots in denselben Workflows arbeiten.
 
 ### 🔬 Deep-Research-Pipelines
-Autonome Recherche-Agenten, die Quellen sammeln, prüfen und zu strukturierten, zitierten Briefings verdichten —
+Autonome Recherche-Agenten, die Quellen sammeln, prüfen und zu strukturierten, zitierten Briefings verdichten -
 von der Frage bis zum verwertbaren Report.
 
 ### 🛡️ Compliance & Datenschutz
-Ein **DSGVO-Agent**, der Datenschutz-Prüfungen, Dokumentation und Audit-Vorbereitung automatisiert —
+Ein **DSGVO-Agent**, der Datenschutz-Prüfungen, Dokumentation und Audit-Vorbereitung automatisiert -
 Compliance als Code statt manueller Checklisten.
 
 ### 🌐 Web-Plattformen & SaaS
-Management-Dashboards, Agentur-Tooling und digitale Auftritte für **Praxen, Manufakturen & KMU** —
+Management-Dashboards, Agentur-Tooling und digitale Auftritte für **Praxen, Manufakturen & KMU** -
 performant, wartbar und sauber deployed.
 
 ### ☁️ Cloud & Platform Engineering *(Fundament)*
-Darunter läuft solides **Cloud-Engineering**: AWS-IaC, CI/CD und Container — damit die Produkte
+Darunter läuft solides **Cloud-Engineering**: AWS-IaC, CI/CD und Container - damit die Produkte
 zuverlässig, reproduzierbar und skalierbar laufen.
 
 <p align="center">
@@ -247,4 +247,4 @@ zuverlässig, reproduzierbar und skalierbar laufen.
 <p align="center">
   <img src="./assets/anantha.png" width="64" alt="Anantha" />
 </p>
-<p align="center"><sub><i>Für <b>Anantha</b> — meine unendliche Inspiration 💜</i></sub></p>
+<p align="center"><sub><i>Für <b>Anantha</b> - meine unendliche Inspiration 💜</i></sub></p>
