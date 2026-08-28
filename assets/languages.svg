@@ -4,10 +4,10 @@
 <clipPath id="clip"><rect x="16" y="42" width="448" height="14" rx="7"/></clipPath>
 <g clip-path="url(#clip)">
 <rect x="16.00" y="42" width="352.11" height="14" fill="#3178c6"/>
-<rect x="367.51" y="42" width="26.96" height="14" fill="#f1e05a"/>
-<rect x="393.87" y="42" width="20.65" height="14" fill="#3572A5"/>
-<rect x="413.92" y="42" width="16.67" height="14" fill="#e34c26"/>
-<rect x="429.99" y="42" width="12.71" height="14" fill="#89e051"/>
+<rect x="367.51" y="42" width="26.95" height="14" fill="#f1e05a"/>
+<rect x="393.86" y="42" width="20.64" height="14" fill="#3572A5"/>
+<rect x="413.91" y="42" width="16.67" height="14" fill="#e34c26"/>
+<rect x="429.97" y="42" width="12.73" height="14" fill="#89e051"/>
 <rect x="442.10" y="42" width="8.81" height="14" fill="#fcb32c"/>
 <rect x="450.31" y="42" width="4.50" height="14" fill="#b400ff"/>
 <rect x="454.21" y="42" width="3.73" height="14" fill="#563d7c"/>
