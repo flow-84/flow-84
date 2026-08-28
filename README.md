@@ -133,7 +133,7 @@ von der Agenten-Logik über die Integrationen bis zum Deployment. Als Fundament 
 ### 📈 Aktivitäts-Verlauf
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=flow-84&area=true&hide_border=true&bg_color=0a0118&color=00f0ff&line=ff00e5&point=00f0ff&title_color=ff00e5&custom_title=Beitr%C3%A4ge%20der%20letzten%2031%20Tage" alt="Aktivitätsverlauf" width="760"/>
+  <img src="https://ghchart.rshah.org/00f0ff/flow-84" alt="Aktivitätsverlauf" width="760"/>
 </p>
 
 <p align="center">
