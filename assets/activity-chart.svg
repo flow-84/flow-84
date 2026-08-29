@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="760" height="220" viewBox="0 0 760 220" role="img" aria-label="Aktivitaetsverlauf">
 <rect x="0.5" y="0.5" width="759" height="219" rx="14" fill="#0a0118" stroke="#b400ff" stroke-opacity="0.45"/>
 <text x="16" y="26" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="16" font-weight="700" fill="#ff00e5">Beitraege der letzten 31 Tage</text>
-<text x="744" y="26" text-anchor="end" font-family="Segoe UI,Arial,sans-serif" font-size="13" fill="#00f0ff">1509 Beitraege</text>
+<text x="744" y="26" text-anchor="end" font-family="Segoe UI,Arial,sans-serif" font-size="13" fill="#00f0ff">1510 Beitraege</text>
 <defs><linearGradient id="bar" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#00f0ff"/><stop offset="100%" stop-color="#b400ff"/></linearGradient></defs>
 <line x1="16" y1="190.0" x2="744" y2="190.0" stroke="#b400ff" stroke-opacity="0.3"/>
 <rect x="16.00" y="152.08" width="20.58" height="37.92" rx="1.5" fill="url(#bar)"><title>2026-07-30: 47</title></rect>
@@ -34,7 +34,7 @@
 <rect x="652.68" y="164.18" width="20.58" height="25.82" rx="1.5" fill="url(#bar)"><title>2026-08-26: 32</title></rect>
 <rect x="676.26" y="172.25" width="20.58" height="17.75" rx="1.5" fill="url(#bar)"><title>2026-08-27: 22</title></rect>
 <rect x="699.84" y="156.11" width="20.58" height="33.89" rx="1.5" fill="url(#bar)"><title>2026-08-28: 42</title></rect>
-<rect x="723.42" y="188.39" width="20.58" height="2.00" rx="1.5" fill="url(#bar)"><title>2026-08-29: 2</title></rect>
+<rect x="723.42" y="187.58" width="20.58" height="2.42" rx="1.5" fill="url(#bar)"><title>2026-08-29: 3</title></rect>
 <text x="16" y="212" font-family="Segoe UI,Arial,sans-serif" font-size="11" fill="#b9a7d6">2026-07-30</text>
 <text x="744" y="212" text-anchor="end" font-family="Segoe UI,Arial,sans-serif" font-size="11" fill="#b9a7d6">2026-08-29</text>
 </svg>
