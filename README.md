@@ -133,7 +133,7 @@ von der Agenten-Logik über die Integrationen bis zum Deployment. Als Fundament 
 ### 📈 Aktivitäts-Verlauf
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/00f0ff/flow-84" alt="Aktivitätsverlauf" width="760"/>
+  <img src="./assets/activity-chart.svg" alt="Aktivitätsverlauf" width="760"/>
 </p>
 
 <p align="center">

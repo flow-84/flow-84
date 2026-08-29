@@ -41,6 +41,13 @@ jobs:
           GH_TOKEN: ${{ secrets.METRICS_TOKEN }}
         run: python3 .github/scripts/languages_svg.py
 
+      # Aktivitaets-Balkendiagramm (committed) — Ersatz fuer das externe,
+      # haeufig ausfallende github-readme-activity-graph.vercel.app.
+      - name: Activity chart
+        env:
+          GH_TOKEN: ${{ secrets.METRICS_TOKEN }}
+        run: python3 .github/scripts/activity_chart_svg.py
+
       # Stats-Zusammenfassung (committed) — Ersatz fuer die GitHub-Stats-Karte
       - name: Stats
         uses: lowlighter/metrics@v3.34
