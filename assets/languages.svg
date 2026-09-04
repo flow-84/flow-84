@@ -4,14 +4,14 @@
 <clipPath id="clip"><rect x="16" y="42" width="448" height="14" rx="7"/></clipPath>
 <g clip-path="url(#clip)">
 <rect x="16.00" y="42" width="350.84" height="14" fill="#3178c6"/>
-<rect x="366.24" y="42" width="27.34" height="14" fill="#f1e05a"/>
-<rect x="392.98" y="42" width="20.97" height="14" fill="#3572A5"/>
-<rect x="413.35" y="42" width="16.55" height="14" fill="#e34c26"/>
-<rect x="429.30" y="42" width="12.62" height="14" fill="#89e051"/>
-<rect x="441.33" y="42" width="9.46" height="14" fill="#fcb32c"/>
-<rect x="450.18" y="42" width="4.41" height="14" fill="#b400ff"/>
-<rect x="453.99" y="42" width="3.69" height="14" fill="#563d7c"/>
-<rect x="457.09" y="42" width="7.51" height="14" fill="#6b7280"/>
+<rect x="366.24" y="42" width="27.48" height="14" fill="#f1e05a"/>
+<rect x="393.12" y="42" width="20.92" height="14" fill="#3572A5"/>
+<rect x="413.44" y="42" width="16.51" height="14" fill="#e34c26"/>
+<rect x="429.35" y="42" width="12.63" height="14" fill="#89e051"/>
+<rect x="441.38" y="42" width="9.44" height="14" fill="#fcb32c"/>
+<rect x="450.22" y="42" width="4.40" height="14" fill="#b400ff"/>
+<rect x="454.02" y="42" width="3.69" height="14" fill="#563d7c"/>
+<rect x="457.10" y="42" width="7.50" height="14" fill="#6b7280"/>
 </g>
 <circle cx="22.0" cy="74.0" r="5" fill="#3178c6"/>
 <text x="34.0" y="78.0" font-family="Segoe UI,Arial,sans-serif" font-size="13" fill="#00f0ff"><tspan font-weight="600">TypeScript</tspan> <tspan fill="#b9a7d6">78.2%</tspan></text>
@@ -26,7 +26,7 @@
 <circle cx="246.0" cy="122.0" r="5" fill="#fcb32c"/>
 <text x="258.0" y="126.0" font-family="Segoe UI,Arial,sans-serif" font-size="13" fill="#00f0ff"><tspan font-weight="600">MDX</tspan> <tspan fill="#b9a7d6">2.0%</tspan></text>
 <circle cx="22.0" cy="146.0" r="5" fill="#b400ff"/>
-<text x="34.0" y="150.0" font-family="Segoe UI,Arial,sans-serif" font-size="13" fill="#00f0ff"><tspan font-weight="600">TeX</tspan> <tspan fill="#b9a7d6">0.9%</tspan></text>
+<text x="34.0" y="150.0" font-family="Segoe UI,Arial,sans-serif" font-size="13" fill="#00f0ff"><tspan font-weight="600">TeX</tspan> <tspan fill="#b9a7d6">0.8%</tspan></text>
 <circle cx="246.0" cy="146.0" r="5" fill="#563d7c"/>
 <text x="258.0" y="150.0" font-family="Segoe UI,Arial,sans-serif" font-size="13" fill="#00f0ff"><tspan font-weight="600">CSS</tspan> <tspan fill="#b9a7d6">0.7%</tspan></text>
 <circle cx="22.0" cy="170.0" r="5" fill="#6b7280"/>
