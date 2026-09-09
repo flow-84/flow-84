@@ -3,15 +3,15 @@
 <text x="16" y="28" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="16" font-weight="700" fill="#ff00e5">Meistgenutzte Sprachen</text>
 <clipPath id="clip"><rect x="16" y="42" width="448" height="14" rx="7"/></clipPath>
 <g clip-path="url(#clip)">
-<rect x="16.00" y="42" width="349.58" height="14" fill="#3178c6"/>
-<rect x="364.98" y="42" width="27.27" height="14" fill="#f1e05a"/>
-<rect x="391.64" y="42" width="22.38" height="14" fill="#3572A5"/>
-<rect x="413.42" y="42" width="16.22" height="14" fill="#e34c26"/>
-<rect x="429.04" y="42" width="13.27" height="14" fill="#89e051"/>
-<rect x="441.71" y="42" width="9.27" height="14" fill="#fcb32c"/>
-<rect x="450.38" y="42" width="4.33" height="14" fill="#b400ff"/>
-<rect x="454.11" y="42" width="3.69" height="14" fill="#563d7c"/>
-<rect x="457.20" y="42" width="7.40" height="14" fill="#6b7280"/>
+<rect x="16.00" y="42" width="349.67" height="14" fill="#3178c6"/>
+<rect x="365.07" y="42" width="27.32" height="14" fill="#f1e05a"/>
+<rect x="391.79" y="42" width="22.40" height="14" fill="#3572A5"/>
+<rect x="413.60" y="42" width="16.20" height="14" fill="#e34c26"/>
+<rect x="429.20" y="42" width="13.21" height="14" fill="#89e051"/>
+<rect x="441.81" y="42" width="9.23" height="14" fill="#fcb32c"/>
+<rect x="450.44" y="42" width="4.31" height="14" fill="#b400ff"/>
+<rect x="454.16" y="42" width="3.68" height="14" fill="#563d7c"/>
+<rect x="457.23" y="42" width="7.37" height="14" fill="#6b7280"/>
 </g>
 <circle cx="22.0" cy="74.0" r="5" fill="#3178c6"/>
 <text x="34.0" y="78.0" font-family="Segoe UI,Arial,sans-serif" font-size="13" fill="#00f0ff"><tspan font-weight="600">TypeScript</tspan> <tspan fill="#b9a7d6">77.9%</tspan></text>
