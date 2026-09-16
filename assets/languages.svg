@@ -3,24 +3,24 @@
 <text x="16" y="28" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="16" font-weight="700" fill="#ff00e5">Meistgenutzte Sprachen</text>
 <clipPath id="clip"><rect x="16" y="42" width="448" height="14" rx="7"/></clipPath>
 <g clip-path="url(#clip)">
-<rect x="16.00" y="42" width="350.39" height="14" fill="#3178c6"/>
-<rect x="365.79" y="42" width="27.44" height="14" fill="#f1e05a"/>
-<rect x="392.63" y="42" width="22.00" height="14" fill="#3572A5"/>
-<rect x="414.03" y="42" width="16.08" height="14" fill="#e34c26"/>
-<rect x="429.51" y="42" width="13.09" height="14" fill="#89e051"/>
-<rect x="442.00" y="42" width="9.28" height="14" fill="#fcb32c"/>
-<rect x="450.68" y="42" width="4.24" height="14" fill="#b400ff"/>
-<rect x="454.32" y="42" width="3.64" height="14" fill="#563d7c"/>
-<rect x="457.36" y="42" width="7.24" height="14" fill="#6b7280"/>
+<rect x="16.00" y="42" width="350.73" height="14" fill="#3178c6"/>
+<rect x="366.13" y="42" width="27.36" height="14" fill="#f1e05a"/>
+<rect x="392.90" y="42" width="21.91" height="14" fill="#3572A5"/>
+<rect x="414.21" y="42" width="16.02" height="14" fill="#e34c26"/>
+<rect x="429.63" y="42" width="13.06" height="14" fill="#89e051"/>
+<rect x="442.09" y="42" width="9.24" height="14" fill="#fcb32c"/>
+<rect x="450.73" y="42" width="4.23" height="14" fill="#b400ff"/>
+<rect x="454.36" y="42" width="3.63" height="14" fill="#563d7c"/>
+<rect x="457.39" y="42" width="7.21" height="14" fill="#6b7280"/>
 </g>
 <circle cx="22.0" cy="74.0" r="5" fill="#3178c6"/>
-<text x="34.0" y="78.0" font-family="Segoe UI,Arial,sans-serif" font-size="13" fill="#00f0ff"><tspan font-weight="600">TypeScript</tspan> <tspan fill="#b9a7d6">78.1%</tspan></text>
+<text x="34.0" y="78.0" font-family="Segoe UI,Arial,sans-serif" font-size="13" fill="#00f0ff"><tspan font-weight="600">TypeScript</tspan> <tspan fill="#b9a7d6">78.2%</tspan></text>
 <circle cx="246.0" cy="74.0" r="5" fill="#f1e05a"/>
 <text x="258.0" y="78.0" font-family="Segoe UI,Arial,sans-serif" font-size="13" fill="#00f0ff"><tspan font-weight="600">JavaScript</tspan> <tspan fill="#b9a7d6">6.0%</tspan></text>
 <circle cx="22.0" cy="98.0" r="5" fill="#3572A5"/>
 <text x="34.0" y="102.0" font-family="Segoe UI,Arial,sans-serif" font-size="13" fill="#00f0ff"><tspan font-weight="600">Python</tspan> <tspan fill="#b9a7d6">4.8%</tspan></text>
 <circle cx="246.0" cy="98.0" r="5" fill="#e34c26"/>
-<text x="258.0" y="102.0" font-family="Segoe UI,Arial,sans-serif" font-size="13" fill="#00f0ff"><tspan font-weight="600">HTML</tspan> <tspan fill="#b9a7d6">3.5%</tspan></text>
+<text x="258.0" y="102.0" font-family="Segoe UI,Arial,sans-serif" font-size="13" fill="#00f0ff"><tspan font-weight="600">HTML</tspan> <tspan fill="#b9a7d6">3.4%</tspan></text>
 <circle cx="22.0" cy="122.0" r="5" fill="#89e051"/>
 <text x="34.0" y="126.0" font-family="Segoe UI,Arial,sans-serif" font-size="13" fill="#00f0ff"><tspan font-weight="600">Shell</tspan> <tspan fill="#b9a7d6">2.8%</tspan></text>
 <circle cx="246.0" cy="122.0" r="5" fill="#fcb32c"/>
