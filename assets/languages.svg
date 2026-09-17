@@ -3,22 +3,22 @@
 <text x="16" y="28" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="16" font-weight="700" fill="#ff00e5">Meistgenutzte Sprachen</text>
 <clipPath id="clip"><rect x="16" y="42" width="448" height="14" rx="7"/></clipPath>
 <g clip-path="url(#clip)">
-<rect x="16.00" y="42" width="350.73" height="14" fill="#3178c6"/>
-<rect x="366.13" y="42" width="27.36" height="14" fill="#f1e05a"/>
-<rect x="392.90" y="42" width="21.91" height="14" fill="#3572A5"/>
-<rect x="414.21" y="42" width="16.02" height="14" fill="#e34c26"/>
-<rect x="429.63" y="42" width="13.06" height="14" fill="#89e051"/>
-<rect x="442.09" y="42" width="9.24" height="14" fill="#fcb32c"/>
-<rect x="450.73" y="42" width="4.23" height="14" fill="#b400ff"/>
-<rect x="454.36" y="42" width="3.63" height="14" fill="#563d7c"/>
-<rect x="457.39" y="42" width="7.21" height="14" fill="#6b7280"/>
+<rect x="16.00" y="42" width="350.90" height="14" fill="#3178c6"/>
+<rect x="366.30" y="42" width="27.27" height="14" fill="#f1e05a"/>
+<rect x="392.97" y="42" width="21.86" height="14" fill="#3572A5"/>
+<rect x="414.23" y="42" width="15.96" height="14" fill="#e34c26"/>
+<rect x="429.60" y="42" width="13.03" height="14" fill="#89e051"/>
+<rect x="442.03" y="42" width="9.21" height="14" fill="#fcb32c"/>
+<rect x="450.64" y="42" width="4.22" height="14" fill="#b400ff"/>
+<rect x="454.25" y="42" width="3.62" height="14" fill="#563d7c"/>
+<rect x="457.27" y="42" width="7.33" height="14" fill="#6b7280"/>
 </g>
 <circle cx="22.0" cy="74.0" r="5" fill="#3178c6"/>
 <text x="34.0" y="78.0" font-family="Segoe UI,Arial,sans-serif" font-size="13" fill="#00f0ff"><tspan font-weight="600">TypeScript</tspan> <tspan fill="#b9a7d6">78.2%</tspan></text>
 <circle cx="246.0" cy="74.0" r="5" fill="#f1e05a"/>
 <text x="258.0" y="78.0" font-family="Segoe UI,Arial,sans-serif" font-size="13" fill="#00f0ff"><tspan font-weight="600">JavaScript</tspan> <tspan fill="#b9a7d6">6.0%</tspan></text>
 <circle cx="22.0" cy="98.0" r="5" fill="#3572A5"/>
-<text x="34.0" y="102.0" font-family="Segoe UI,Arial,sans-serif" font-size="13" fill="#00f0ff"><tspan font-weight="600">Python</tspan> <tspan fill="#b9a7d6">4.8%</tspan></text>
+<text x="34.0" y="102.0" font-family="Segoe UI,Arial,sans-serif" font-size="13" fill="#00f0ff"><tspan font-weight="600">Python</tspan> <tspan fill="#b9a7d6">4.7%</tspan></text>
 <circle cx="246.0" cy="98.0" r="5" fill="#e34c26"/>
 <text x="258.0" y="102.0" font-family="Segoe UI,Arial,sans-serif" font-size="13" fill="#00f0ff"><tspan font-weight="600">HTML</tspan> <tspan fill="#b9a7d6">3.4%</tspan></text>
 <circle cx="22.0" cy="122.0" r="5" fill="#89e051"/>
