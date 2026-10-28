@@ -1,0 +1,20 @@
+# Calls the shared security scan (flow-84/security-workflows, source in
+# flow-84/cyber-security). Managed by cyber-security/scripts/github/harden.sh.
+name: security-scan
+
+on:
+  push:
+    branches: [main, master]
+  pull_request:
+  schedule:
+    - cron: "17 4 * * 1"
+  workflow_dispatch:
+
+permissions: {}
+
+jobs:
+  security-scan:
+    uses: flow-84/security-workflows/.github/workflows/security-scan.yml@main
+    permissions:
+      contents: read
+      security-events: write
