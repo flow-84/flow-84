@@ -3,18 +3,18 @@
 <text x="16" y="28" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="16" font-weight="700" fill="#ff00e5">Meistgenutzte Sprachen</text>
 <clipPath id="clip"><rect x="16" y="42" width="448" height="14" rx="7"/></clipPath>
 <g clip-path="url(#clip)">
-<rect x="16.00" y="42" width="338.57" height="14" fill="#3178c6"/>
-<rect x="353.97" y="42" width="35.20" height="14" fill="#3572A5"/>
-<rect x="388.57" y="42" width="30.61" height="14" fill="#f1e05a"/>
-<rect x="418.58" y="42" width="12.94" height="14" fill="#89e051"/>
-<rect x="430.91" y="42" width="10.99" height="14" fill="#e34c26"/>
-<rect x="441.30" y="42" width="6.92" height="14" fill="#fcb32c"/>
-<rect x="447.62" y="42" width="4.15" height="14" fill="#00ADD8"/>
-<rect x="451.17" y="42" width="3.92" height="14" fill="#563d7c"/>
+<rect x="16.00" y="42" width="338.65" height="14" fill="#3178c6"/>
+<rect x="354.05" y="42" width="35.14" height="14" fill="#3572A5"/>
+<rect x="388.59" y="42" width="30.58" height="14" fill="#f1e05a"/>
+<rect x="418.57" y="42" width="12.99" height="14" fill="#89e051"/>
+<rect x="430.96" y="42" width="10.97" height="14" fill="#e34c26"/>
+<rect x="441.32" y="42" width="6.91" height="14" fill="#fcb32c"/>
+<rect x="447.63" y="42" width="4.14" height="14" fill="#00ADD8"/>
+<rect x="451.18" y="42" width="3.91" height="14" fill="#563d7c"/>
 <rect x="454.49" y="42" width="10.11" height="14" fill="#6b7280"/>
 </g>
 <circle cx="22.0" cy="74.0" r="5" fill="#3178c6"/>
-<text x="34.0" y="78.0" font-family="Segoe UI,Arial,sans-serif" font-size="13" fill="#00f0ff"><tspan font-weight="600">TypeScript</tspan> <tspan fill="#b9a7d6">75.4%</tspan></text>
+<text x="34.0" y="78.0" font-family="Segoe UI,Arial,sans-serif" font-size="13" fill="#00f0ff"><tspan font-weight="600">TypeScript</tspan> <tspan fill="#b9a7d6">75.5%</tspan></text>
 <circle cx="246.0" cy="74.0" r="5" fill="#3572A5"/>
 <text x="258.0" y="78.0" font-family="Segoe UI,Arial,sans-serif" font-size="13" fill="#00f0ff"><tspan font-weight="600">Python</tspan> <tspan fill="#b9a7d6">7.7%</tspan></text>
 <circle cx="22.0" cy="98.0" r="5" fill="#f1e05a"/>
