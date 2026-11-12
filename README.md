@@ -204,7 +204,6 @@ zuverlässig, reproduzierbar und skalierbar laufen.
 
 | Projekt | Beschreibung | Stack |
 |---|---|---|
-| 🧭 [agencyflow](https://github.com/flow-84/agencyflow) | Agentur-Management-Tool — Projekte, Boards & Workflows an einem Ort | `JavaScript` |
 | 🛡️ [DSGVO-Agent](https://github.com/flow-84/DSGVO-Agent) | KI-Agent, der DSGVO-Prüfungen, Doku & Audit-Vorbereitung automatisiert | `TypeScript` `AI` |
 | 🦾 [open-claw](https://github.com/flow-84/open-claw) | Experimente rund um autonome Agenten & Tooling | `TypeScript` |
 
